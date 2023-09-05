@@ -1,0 +1,43 @@
+/backend/node_modules
+
+# front-end
+# Compiled output
+/frontend/jwtapp/dist
+/frontend/jwtapp/tmp
+/frontend/jwtapp/out-tsc
+/frontend/jwtapp/bazel-out
+
+# Node
+/frontend/jwtapp/node_modules
+/frontend/jwtapp/npm-debug.log
+/frontend/jwtapp/yarn-error.log
+
+# IDEs and editors
+/frontend/jwtapp/.idea/
+/frontend/jwtapp/.project
+/frontend/jwtapp/.classpath
+/frontend/jwtapp/.c9/
+/frontend/jwtapp/*.launch
+/frontend/jwtapp/.settings/
+/frontend/jwtapp/*.sublime-workspace
+
+# Visual Studio Code
+/frontend/jwtapp/.vscode/*
+/frontend/jwtapp/!.vscode/settings.json
+/frontend/jwtapp/!.vscode/tasks.json
+/frontend/jwtapp/!.vscode/launch.json
+/frontend/jwtapp/!.vscode/extensions.json
+/frontend/jwtapp/.history/*
+
+# Miscellaneous
+/frontend/jwtapp/.angular/cache
+/frontend/jwtapp.sass-cache/
+/frontend/jwtapp/connect.lock
+/frontend/jwtapp/coverage
+/frontend/jwtapp/libpeerconnection.log
+/frontend/jwtapp/testem.log
+/frontend/jwtapp/typings
+
+# System files
+/frontend/jwtapp/.DS_Store
+/frontend/jwtapp/Thumbs.db
